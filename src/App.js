@@ -1,5 +1,5 @@
 
-import landing_pagehd from './landing_pagehd.gif';
+// import landing_pagehd from './landing_pagehd.gif';
 import './App.scss';
 import ImageMap from "image-map";
 
